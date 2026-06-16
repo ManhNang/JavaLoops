@@ -1,0 +1,5 @@
+Bắt đầu tính toán lộ trình...
+Chi phí đã vượt quá ngân sách!
+Thời gian chạy (Legacy): 1 ms
+Tổng chi phí: 
+100095997.89
