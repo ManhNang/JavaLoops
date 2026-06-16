@@ -1,0 +1,45 @@
+--- BẮT ĐẦU QUÉT HỆ THỐNG ---
+Cảnh báo: USER_3 sai mật khẩu 7 lần.
+Cảnh báo: USER_5 sai mật khẩu 9 lần.
+Cảnh báo: USER_11 sai mật khẩu 7 lần.
+Cảnh báo: USER_12 sai mật khẩu 7 lần.
+Cảnh báo: USER_15 sai mật khẩu 4 lần.
+Cảnh báo: USER_18 sai mật khẩu 5 lần.
+Cảnh báo: USER_24 sai mật khẩu 5 lần.
+Cảnh báo: USER_26 sai mật khẩu 6 lần.
+Cảnh báo: USER_29 sai mật khẩu 4 lần.
+Cảnh báo: USER_34 sai mật khẩu 6 lần.
+Cảnh báo: USER_35 sai mật khẩu 7 lần.
+Cảnh báo: USER_41 sai mật khẩu 8 lần.
+Cảnh báo: USER_45 sai mật khẩu 8 lần.
+Cảnh báo: USER_51 sai mật khẩu 8 lần.
+Cảnh báo: USER_52 sai mật khẩu 9 lần.
+Cảnh báo: USER_54 sai mật khẩu 7 lần.
+Cảnh báo: USER_64 sai mật khẩu 9 lần.
+Cảnh báo: USER_65 sai mật khẩu 9 lần.
+Cảnh báo: USER_68 sai mật khẩu 7 lần.
+Cảnh báo: USER_70 sai mật khẩu 5 lần.
+Cảnh báo: USER_74 sai mật khẩu 4 lần.
+Cảnh báo: USER_77 sai mật khẩu 6 lần.
+Cảnh báo: USER_84 sai mật khẩu 4 lần.
+Cảnh báo: USER_85 sai mật khẩu 8 lần.
+Cảnh báo: USER_86 sai mật khẩu 4 lần.
+Cảnh báo: USER_87 sai mật khẩu 6 lần.
+Cảnh báo: USER_88 sai mật khẩu 6 lần.
+Cảnh báo: USER_91 sai mật khẩu 5 lần.
+Cảnh báo: USER_93 sai mật khẩu 7 lần.
+Cảnh báo: USER_104 sai mật khẩu 5 lần.
+Cảnh báo: USER_105 sai mật khẩu 4 lần.
+Cảnh báo: USER_111 sai mật khẩu 4 lần.
+Cảnh báo: USER_113 sai mật khẩu 8 lần.
+Cảnh báo: USER_115 sai mật khẩu 7 lần.
+Cảnh báo: USER_123 sai mật khẩu 6 lần.
+Cảnh báo: USER_124 sai mật khẩu 8 lần.
+Cảnh báo: USER_128 sai mật khẩu 6 lần.
+Cảnh báo: USER_129 sai mật khẩu 8 lần.
+Cảnh báo: USER_135 sai mật khẩu 8 lần.
+Cảnh báo: USER_136 sai mật khẩu 7 lần.
+Cảnh báo: USER_147 sai mật khẩu 8 lần.
+Cảnh báo: ADMIN_2 sai mật khẩu 6 lần.
+Đã tìm thấy Admin hệ thống: ADMIN_2
+Thời gian quét: 9323700 nano giây.
